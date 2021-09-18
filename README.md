@@ -1,2 +1,2 @@
-# DLCVNLP
-Deep learning practice
+# oneNeuron
+oneNeuron | perceptron
